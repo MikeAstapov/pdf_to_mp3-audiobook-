@@ -1,3 +1,5 @@
+"""Скрипт для преобразования PDF файлов в mp3 формат. Создание для аналога аудиокниги"""
+
 from gtts import gTTS
 from pathlib import Path
 import pdfplumber
